@@ -42,6 +42,7 @@ public class specificInfo extends AppCompatActivity {
         userName=intent.getStringExtra("UserName");
         city= intent.getStringExtra("City");
         street=intent.getStringExtra("Street");
+        url=intent.getStringExtra("Url");
 
 
     }
